@@ -1,0 +1,4 @@
+streamlit
+Path
+google.generativeai as genai
+io
